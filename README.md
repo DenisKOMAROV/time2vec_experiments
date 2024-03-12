@@ -1,6 +1,9 @@
 
 # Time2Vec Experimentation Summary
 
+## Easiest way to inspect - Download html and open it in a browser
+
+
 ## Overview
 This repository contains our experiments and findings with the Time2Vec model. Time2Vec's core advantage lies in its ability to represent temporal aspects in data, making it a potentially powerful tool for time series analysis.
 
